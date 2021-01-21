@@ -27,7 +27,7 @@ ROOT_DIR=D:\Codeforces
 
 ## USAGE ##
 1.FORMAT to run the script is to add contest number of the codeforces contest <br/>
-Example: 'https://codeforces.com/contests/1474' the contest number is **1474**
+Example: 'https://codeforces.com/contests/1474' the contest number is **1474** <br/>
 node script.js 1474
 ```
 node script.js #contest number
