@@ -12,10 +12,16 @@ npm install
 ## INITIAL SETUP ##
 1.Make a '.env' file in the root directory  <br />
 2.In the .env use the following format: <br/>
+3.Make a contest folder
 ```
 PROBLEM_DIR=#where you want the created directories
 ROOT_DIR=#where you cloned the repo
 ```
+Example: 
+``
+PROBLEM_DIR=D:\Codeforces\contest
+ROOT_DIR=D:\Codeforces
+``
 3.Make sure to make the PROBLEM_DIR inside the ROOT_DIR
 
 
