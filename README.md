@@ -28,8 +28,9 @@ ROOT_DIR=D:\Codeforces
 ## USAGE ##
 1.FORMAT to run the script is to add contest number of the codeforces contest <br/>
 Example: 'https://codeforces.com/contests/1474' the contest number is **1474**
+node script.js 1474
 ```
-node script.js 
+node script.js #contest number
 # will parse all the problems of the contest
 # download their testcases
 # create multiple directories A B C D E1 E2 depending on the number of problems in contest
