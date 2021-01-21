@@ -17,11 +17,11 @@ npm install
 PROBLEM_DIR=#where you want the created directories
 ROOT_DIR=#where you cloned the repo
 ```
-Example: 
-``
+## Example: ##
+```
 PROBLEM_DIR=D:\Codeforces\contest
 ROOT_DIR=D:\Codeforces
-``
+```
 3.Make sure to make the PROBLEM_DIR inside the ROOT_DIR
 
 
